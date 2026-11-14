@@ -1,11 +1,11 @@
 # 🎃 Soirée Halloween
 
-A small one-page invitation site (`index.html`, no dependencies) for tonight's Halloween party.
+Petit site d'invitation d'une seule page (`index.html`, sans dépendance) pour la soirée Halloween.
 
-## Putting it online (GitHub Pages)
+## Le mettre en ligne (GitHub Pages)
 
-1. On GitHub: **Settings → Pages**
-2. *Source*: "Deploy from a branch", pick the branch that holds `index.html`, folder `/ (root)`
-3. After about a minute, the site is live at `https://<username>.github.io/halloween-/`
+1. Sur GitHub : **Settings → Pages**
+2. *Source* : « Deploy from a branch », choisir la branche qui contient `index.html`, dossier `/ (root)`
+3. Au bout d'une minute environ, le site est en ligne sur `https://<pseudo>.github.io/halloween-/`
 
-You can also just open `index.html` in a browser.
+On peut aussi ouvrir `index.html` directement dans un navigateur.
